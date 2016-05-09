@@ -11,3 +11,17 @@ P {
 .veg {
     color: darkgreen;
 }
+
+div {
+    width: 50%;
+    float: left;
+}
+
+#contact {
+    width: 100%
+}
+
+#veggie a {
+    font-weight: bold;
+
+}
