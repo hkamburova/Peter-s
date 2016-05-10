@@ -80,3 +80,7 @@ body {
 #whiteflag {
     background-color: floralwhite;
 }
+
+.form-group {
+    margin-right: 15px
+}
