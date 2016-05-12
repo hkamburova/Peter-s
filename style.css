@@ -1,7 +1,12 @@
 h1 {
-    color: #EE799F;
-    font-size: 40px;
+    color: red;
+    font-size: 80px;
+    font-style: bold;
+    font-family: BatangChe;
+
+    text-align: center;
 }
+
 
 P {
     font-style: italic;
@@ -11,3 +16,73 @@ P {
 .veg {
     color: darkgreen;
 }
+
+
+#contact {
+    width: 100%
+}
+
+#veggie a {
+    font-weight: bold;
+
+}
+
+body {
+    width: 100%;
+    height: 1080px;
+
+}
+
+#middleimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#tagline {
+    text-align: center;
+    color: red;
+
+}
+
+#tagline2 {
+    text-align: center;
+    color:limegreen;
+}
+
+#tagline3 {
+    text-align: center;
+    color:orange;
+}
+
+#greenc {
+    text-align: left;
+    color: green
+}
+
+#greenveg {
+    color: green;
+}
+
+#orangemeat {
+    color: orangered;
+}
+
+#greenflag {
+    background-color: green;
+}
+
+#redflag {
+    background-color: red;
+}
+
+#whiteflag {
+    background-color: floralwhite;
+}
+
+.form-group {
+    margin-right: 15px
+}
+
+.hidden-print
